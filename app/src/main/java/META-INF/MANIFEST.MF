@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Implementation-Version: bd523fa
+Created-By: 1.8.0_71-b15 (Oracle Corporation)
+TimeStamp: 20210524_174029
+
